@@ -4,7 +4,7 @@
 
 # Hey, I'm Connor Hughes!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Data%20Scientist%20%26%20Consultant;C%2C%20C%2B%2B;Based%20in%20London%2C%20England)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Data%20Scientist%20%26%20Consultant;Based%20in%20London%2C%20England)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,6 @@
 Hi, I'm Connor. I studied physics before making the jump into data science. These days, I work as an ML consultant here in London. I spend a lot of time working with data, but at the end of the day, I just really like figuring out how things work and tackling a good puzzle.
 
 - 🏢 Working at **Kubrick Group** in **London, England**
-- 🌱 Currently learning **C, C++**
 - 💬 Ask me about **Web Development, LLMs, or Sports.**
 
 ## 🛠️ Tech Stack
