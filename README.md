@@ -13,7 +13,7 @@
 Hi, I'm Connor. I studied physics before making the jump into data science. These days, I work as an ML consultant here in London. I spend a lot of time working with data, but at the end of the day, I just really like figuring out how things work and tackling a good puzzle.
 
 - 🏢 Working at **Kubrick Group** in **London, England**
-- 💬 Ask me about **Python, LLMs, or Sports.**
+- 💬 Ask me about **Python, LLMs, or Sports**
 
 ## 🛠️ Tech Stack
 
