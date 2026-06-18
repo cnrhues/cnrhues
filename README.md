@@ -15,7 +15,7 @@
 </div><br>
 
 - 🏢 Working at **Kubrick Group** in **London, England**
-- 💬 Ask me about **Python, LLMs, or Sports**
+- 💬 Ask me about **Python, LLMs, or Films**
 
 ## 🛠️ Tech Stack
 
