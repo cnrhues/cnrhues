@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Animated-Flag-Wales.gif" width="180px" height="180px">
 
-# Hey, I'm Connor!
+# Hello, I'm Connor!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Data%20Scientist%20%26%20Consultant;Based%20in%20London%2C%20England)](https://git.io/typing-svg)
 
